@@ -1,3 +1,7 @@
+Hi!
+
+I'm not a bot, I'm a human. My discord is leonariley.
+
 # lottery.aleo
 
 ## Run Guide
